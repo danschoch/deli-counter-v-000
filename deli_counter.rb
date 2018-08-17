@@ -10,3 +10,4 @@ def line (katz_deli)
     end
     puts line_is
   end
+end
