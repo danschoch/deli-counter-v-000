@@ -11,3 +11,11 @@ def line (katz_deli)
     puts line_is
   end
 end
+
+def take_a_number
+  
+end
+
+def now_serving
+  
+end
